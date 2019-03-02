@@ -1,0 +1,26 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+
+body {
+
+  background: #f5f5f5;
+  background-image:url('https://www.definicionabc.com/wp-content/uploads/Paisaje-Natural.jpg');
+}
+#logo{
+    margin: 0;
+  padding:0;
+  
+  
+}
+img{
+  border: 5px solid white;
+  border-radius:60px;
+  border-bottom-color:red;
+ 
+}
+span,code{
+  text-align:center;
+  color:white;
+}
